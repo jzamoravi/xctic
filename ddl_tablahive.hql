@@ -1,1 +1,2 @@
--- 1. creacion de ddl para objeto hide
+-- 1. creacion de ddl para objeto hive
+-- 2. Autor: Johnny

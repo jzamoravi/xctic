@@ -1,2 +1,3 @@
--- 1. creacion de ddl para objeto hive
+-- 1. Creacion de ddl para objeto hive
 -- 2. Autor: Johnny
+-- 3. Fecha: 02/03/2019
